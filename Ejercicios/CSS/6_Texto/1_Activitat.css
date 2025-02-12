@@ -1,0 +1,24 @@
+#TÍTULO {
+    font-size: 2.5rem;
+    font-style:italic;
+    font-weight:600;
+    }
+    
+    #Autor {
+    font-size: 1.7rem;
+    font-style: oblique;
+    font-weight: 600;
+    }
+    
+    #prologo {
+    font-size:1.2rem;
+    font-style:normal;
+    font-weight: 600;
+    }
+    
+    p {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 200;
+    }
+    

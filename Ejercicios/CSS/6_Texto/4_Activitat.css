@@ -1,0 +1,19 @@
+@font-face {
+    font-family:"Super Comic";
+    src: url("fuentes/Super\ Comic.ttf");
+}
+
+@font-face {
+    font-family: "Sherman ";
+    src: url("fuentes/Sherman-Display.ttf");
+
+}
+
+.titulo {
+    font-family:"Super Comic";
+
+}
+
+.texto {
+font-family: "Sherman ";
+}

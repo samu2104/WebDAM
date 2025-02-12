@@ -1,0 +1,24 @@
+h1 {
+    background-color: rgb(255, 38, 0);
+    font-style: italic;
+    }
+    
+    .p1 {
+    background-color: rgb(189, 255, 127);
+    font-weight: 600;
+    max-height: 10rem;
+    min-height: 5rem;
+    }
+    
+    .p2 {
+        background-color: rgb(17, 55, 224);
+        font-weight: 600;
+        max-height: 10rem;
+    min-height: 5rem;
+    }
+     .p3 {
+        background-color: rgb(133, 190, 155);
+        font-weight: 600;
+        max-height: 10rem;
+    min-height: 5rem;
+     }

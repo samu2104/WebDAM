@@ -1,0 +1,5 @@
+body > p:nth-child(1) {color:red}
+
+body > p:nth-child(2) > span:nth-child(1) {background-color: red;}
+
+body > p:nth-child(2) > span:nth-child(2) {color:red}
