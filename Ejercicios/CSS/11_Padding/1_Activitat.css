@@ -1,0 +1,71 @@
+body{
+    background-color: bisque;
+    margin: 0;
+    }
+    
+    .titulo_texto{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 5rem;
+    }
+    
+    h1 {
+    margin-right: 53rem;
+    }
+    
+    .cabezera p {
+    margin-right: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    margin-bottom: 0;
+    }
+    
+    .planes {
+    display: flex;
+    margin-left: 5rem;
+    }
+    
+    .planes p{
+    margin: 2rem;
+    }
+    
+    .suscripcion_btn{
+    display: block;
+    background-color:rgb(34, 121, 133);
+    color: white;
+    font-size: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+    text-decoration: none
+    }
+    
+    .plancomp_btn {
+    display: block;
+    margin-top: 1rem;
+    color:rgb(34, 121, 133);
+    font-size: 1rem;
+    text-decoration: none;
+    }
+    
+    
+    img {
+        width: 400px;
+        height: 300px ;
+        float: right;
+        margin-right: 15rem;
+        margin-left: 0rem;
+        }
+    
+    footer {
+    background-color: rgb(101, 194, 194);
+    margin-top: 5rem;
+    padding: 0.5rem;
+    text-align: center;
+    }
+    
+    footer div p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    font-size: 1.2rem;
+    }

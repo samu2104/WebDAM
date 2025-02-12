@@ -1,0 +1,67 @@
+.columna {
+    border: 1px solid black;
+    float: left;
+    margin-right: 65rem;
+    height: 40rem;
+    }
+    
+    .descripcion h2 {
+    margin-top: 2rem;
+    margin-left: 2rem ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    }
+    
+    .descripcion p {
+    margin-right: 2rem;
+    margin-left: 2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    #\32 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom:0;
+    }
+    
+    #\33 {
+    font-size: 0.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 5rem;
+    margin-top: 0rem;
+    }
+    
+    .btn{
+    text-align: center;
+    background-color: rgb(34, 121, 133);
+    margin: 1.5rem;
+    padding:1rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+    }
+    
+    .column1_list {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5rem;
+    }
+    
+    .column1_list p {
+    margin-left: 2rem;
+    }
+    
+    .column1_list ul{
+    margin-left: 0.5rem;
+    }
+    
+    .column1_list ul li {
+    font-size: 1rem;
+    }
+    
+    body > div > p:nth-child(4) {
+    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2rem;
+    font-weight: 600;
+    color: rgb(34, 121, 133);
+    }

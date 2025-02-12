@@ -1,0 +1,10 @@
+body {background-color: rgb(36, 202, 161);}
+
+h1 { color:greenyellow;
+    font-style: italic;}
+
+    h2 {color:rgb(238, 173, 130);
+        text-decoration: underline}
+
+        p {text-align: justify;
+            color: #da0707}

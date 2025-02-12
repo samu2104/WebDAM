@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    }
+    
+    .comentarios{
+    background-color: rgb(19, 243, 19);
+    margin: 0;
+    }
+    
+    h2{
+    font-style: normal;
+    }
+    
+    .tiempo{
+    font-style: italic;
+    }
+    
+    .usuario{
+    font-weight: bold;
+    }

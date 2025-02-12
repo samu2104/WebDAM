@@ -1,0 +1,26 @@
+body {
+    text-align: justify
+}
+
+body > span:nth-child(1) {
+    font-style: italic;
+}
+
+body > span:nth-child(2) {
+
+font-weight:600;
+}
+
+p {
+text-transform: uppercase;
+}
+
+body > p > span:nth-child(1) {
+
+font-weight: 600;
+}
+
+body > p > span:nth-child(2) {
+font-style: italic;
+background-color: yellow;
+}

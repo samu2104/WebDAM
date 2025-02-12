@@ -1,0 +1,29 @@
+#lavadora {
+    background-color: rgb(170, 19, 132);
+    max-width: 5rem
+    }
+    
+    #agitador {
+    background-color:rgb(127, 255, 202);
+    max-width: 10rem
+    }
+    
+    #imagen {
+    background-color: rgb(170, 15, 15);
+    max-width: 15rem
+    }
+    
+    #model {
+    background-color: rgba(78, 36, 6, 0.507);
+    max-width: 20rem
+    }
+    
+    #sku {
+    background-color: rgb(14, 32, 66);
+    max-width: 25rem;
+    }
+    
+    #precio {
+    background-color: rgb(16, 231, 34);
+    max-width: 30rem;
+    }
